@@ -1,0 +1,19 @@
+	<style type="text/css">
+	  body {
+	  	font-family: "Courier New", Courier, monospace;
+	  	padding-top: 25px;
+	  	text-align: center;
+	    color: white ;
+	    background-color: black }
+	    p {
+	    	font-size: 36px;
+	    	font-family: "Courier New", Courier, monospace;
+	    }
+	    h1 {
+	    	font-size: 20px;
+	    	font-family: "Courier New", Courier, monospace;
+	    	font-weight: normal;
+	    }
+	  </style>
+	</body>
+</html>
